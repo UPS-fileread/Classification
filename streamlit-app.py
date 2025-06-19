@@ -7,12 +7,12 @@ def main():
     st.title('Fileread Document Classification')
     
     # Section for user to enter OpenAI API key
-    api_key = st.text_input('Enter your OpenAI API key', type='password')
-    if api_key:
-        os.environ['OPENAI_API_KEY'] = api_key
-    else:
-        st.warning('Please enter your OpenAI API key to use the classifier.')
-        return
+    # api_key = st.text_input('Enter your OpenAI API key', type='password')
+    # if api_key:
+    #     os.environ['OPENAI_API_KEY'] = api_key
+    # else:
+    #     st.warning('Please enter your OpenAI API key to use the classifier.')
+    #     return
     
     st.write('Upload one or more .txt or .pdf files to classify their legal context and subcategory.')
     
