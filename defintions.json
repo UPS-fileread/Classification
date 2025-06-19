@@ -1,0 +1,81 @@
+{
+  "context_types": {
+    "Contract":   "A contract is an agreement between parties , creating mutual obligations that are enforceable by law . The basic elements required for the agreement to be a legally enforceable contract are: mutual assent , expressed by a valid offer and acceptance ; adequate consideration ; capacity ; and legality . In some states , elements of consideration can be satisfied by a valid substitute. Possible remedies for breach of contract include general damages , consequential damages , reliance damages , and specific performance .",
+    "Litigation": "Litigation is the process of resolving disputes by filing or answering a complaint through the public court system.",
+    "Regulatory": "Materials outlining rules, guidelines, and compliance requirements set by government agencies.",
+    "Financial":  "Records detailing monetary transactions, disclosures, or fiscal positions relevant to legal matters.",
+    "Statutory":  "Legal documents that establish laws or regulations enacted by a legislative body.",
+    "Email":      "Electronic communications that may contain legal discussions, agreements, or notifications.",
+    "other":      "Any other type of context not covered by the above categories"
+  },
+  "subcategories": {
+    "Contract": [
+      "Collaboration Agreement",
+      "Collective Bargaining Agreement",
+      "Commercial Agreement",
+      "Distribution Agreement",
+      "Joint Agreement",
+      "Joint Venture Agreement",
+      "Letter Agreement",
+      "Loan Agreement",
+      "Master Agreement",
+      "Merger Agreement",
+      "Non-Disclosure Agreement",
+      "Operating Agreement",
+      "Partnership Agreement",
+      "Purchase Agreement",
+      "Service Agreement",
+      "Shareholder Rights Agreement",
+      "Software Agreement",
+      "Sponsorship Agreement"
+    ],
+    "Litigation": [
+      "Brief",
+      "Business Schedule",
+      "Complaint",
+      "Court Decision",
+      "Deposition",
+      "Expert Report",
+      "Internal Memo",
+      "Motion",
+      "Interrogatories"
+    ],
+    "Regulatory": [
+      "Agent Complaint",
+      "Agent Comprehensive",
+      "Agency Filing",
+      "Agency Order",
+      "Agency Review",
+      "Patent Application",
+      "Regulatory Law",
+      "Software Application",
+      "Trademark Application",
+      "Trademark Registration"
+    ],
+    "Financial": [
+      "Annual Report",
+      "Balance Sheet",
+      "Financial Statement",
+      "Prospectus"
+    ],
+    "Statutory": [
+      "Insurance Law",
+      "Insurance Policy",
+      "Securities Law"
+    ],
+    "Email": [
+      "Email Thread"
+    ],
+    "other": [
+      "Certificate of Incorporation",
+      "Memorandum",
+      "Minutes",
+      "Notice",
+      "Prospectus",
+      "Receipt",
+      "Survey",
+      "Test",
+      "Will"
+    ]
+  }
+}
